@@ -1,1 +1,4 @@
-jupiter
+jupyter
+numpy
+matplotlib
+opencv-python
